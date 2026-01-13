@@ -1,0 +1,2 @@
+print("Random jokes!")
+jokes = [""]

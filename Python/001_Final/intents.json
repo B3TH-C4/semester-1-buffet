@@ -1,0 +1,88 @@
+{
+  "intents":[
+      {
+          "tag": "greeting",
+          "patterns": ["hello","hi","yo","howdy","greetings","salutations","whats up","sup","good morning","good afternoon", "hey","hola"],
+          "responses":["hey stupid","what do you want","wsp","no","hi","ok","okay","sorry i just exploded a prison anyways hellooooo"]
+      },
+      {
+          "tag": "goodbye",
+          "patterns":["I gotta go", "bye","good bye", "see ya","cya","cu","gtg","peace","ttyl","*waves*","ttyl running from the police"],
+          "responses":["good riddance","ok bye bye","see you!","ok","bye","okay bye","finally get out of here","*waves*","finally"]
+      },
+      {
+          "tag": "who",
+          "patterns":["stray kids", "who stray kids", "whats stray kids", "skz","what is skz"],
+          "responses":["stray kids is a south korean boy band formed by JYP Entertainment."]
+      },
+      {
+          "tag": "memb",
+          "patterns":["who are the members","members","who be members"],
+          "responses":["the group has 8 members: bang chan, lee know, changbin, hyunjin, han, felix, seungmin, I.N. bang chan is the oldes and the leader of the group. I.N is the youngest, or maknae of the group"]
+        
+      },
+      {
+          "tag": "favsongs",
+          "patterns": ["what's your favorite song","fave song","fav song","fav song"],
+          "responses": [" oh my favorite song? i'd sayy....hmmmmmm...yk i think that all of the songs are my favorite","ooh...hmmm probably Maniac","oh my favorite is Ceremony", "Case 143 for suree","Lose My Breath","oh it's gotta be LALALALA","Megaverse","Stray Kids"]
+      },
+      {
+          "tag": "bias",
+          "patterns": ["who's your bias", "bias", "who ur bias", "who is your bias"],
+          "responses": ["hyunjin :)", "my bias? it's bang chan", "it's lee know", "mine is....felix", "I.N", "It's seungmin for me", "oh it's han I love him so much", "changbin :D"]
+      },
+      {
+          "tag": "fav album",
+          "patterns": ["what's your fav album", "favorite album", "fav album", "fave album", "favorite album", "whats ur favorite album"],
+          "responses": ["I Am NOT", "I Am YOU", "I Am WHO", "MIROH", "LEVANTER", "Yellow Wood", "GO生", "IN生", "NOEASY", "ODDINARY", "MAXIDENT", "5-Star", "ROCK-STAR", "ATE", "HOP", "Mixtape:dominATE", "hollow", "christmas evel", "HOP", "Karma", "Do it"]
+      },
+      {
+          "tag": "fav music video",
+          "patterns": ["whats your fav music video", "fav M/V", "fave music vid", " fav mv"],
+          "responses": ["LALALALA ", "red lights ;)", "trueman", "walking on water", "domino", "yea"]
+      },
+      {
+          "tag": "smalltalk",
+          "patterns": ["so uhhhh how are you?", "how's your day going", "hru", "how thy self feeling", "anyways wsp"],
+          "responses": ["im good", "life's great", "oh shut up you know how boring life can be", "i'm fine", "no", "go away"]
+          
+      },
+      {
+          "tag": "moresmalltalk",
+          "patterns": ["anyways wanna talk about stray kids?", "let's talk about skz"],
+          "responses": ["OMG YESSS LET'S CHAT", "ofc", "yea sure", "ugh fine whatever","omg yessssss", "ok what should we start with first?", "ok"]
+      },
+      {
+          "tag": "debut",
+          "patterns": ["how did they debut", "debut", "howd they debut", "debut?"],
+          "responses": ["through the 2017 JYP Entertainment survival reality show Stray Kids, which followed trainees forming a group with Bang Chan picking members, leading to their official March 25, 2018 debut with the EP I Am Not and hit District 9. Before the official launch, they released a pre-debut album, Mixtape, showcasing their self-produced work, solidifying their unique, self-producing identity. "]
+      },
+      {
+          "tag": "born",
+          "patterns": ["where was each member born", "where were they born", "when were they born"],
+          "responses": ["bang chan, the leader, and felix were born in sydney/melbourne, australia. bang chan was born on oct 3rd, 1997 and felix was born on sept 15, 2000. lee know was born in gimpo, south korea on oct 25, 1998. changbin was born in yongin, south korea on aug 11, 1999. hyunjin was born in seoul, south korea on mar 20, 2000. han was born in incheon, south korea on sept 14, 2000. seungmin was born in seoul, south korea on sept 22, 2000. I.N was born in gwangju, south korea on feb 8, 2001."]
+      },
+      {
+          "tag": "agelist",
+          "patterns": ["members age order", "ages of members from oldest to youngest", "state the ages of each member"],
+          "responses": ["right now, bangchan: 28, lee know: 27, changbin: 26, hyunjin: 25, han: 25, felix: 25, seungmin: 25, and I.N: 24"]
+      },
+      {
+          "tag": "ships",
+          "patterns": ["ships in skz", "skz ships", "ships in stray kids", "straykids ships"],
+          "responses": ["the 2 most popular ships in stray kids are minsung (minho(lee know) and han jisung) and hyunlix(hyunjin and felix)"]
+      },
+      {
+          "tag": "realnames",
+          "patterns": ["what are the stray kids' real names", "real names of skz", "skz real names", "stray kids real names"],
+          "responses": ["bangchan: christopher bahng, lee know: lee minho, changbin: seo changbin, hyunjin: hwang hyunjin, han: han jisung, felix: lee yongbok felix, seungmin: kim seungmin, I.N: yang jeongin"]
+      },
+      {
+          "tag": "fans",
+          "patterns": ["in which countries have the most skz fans", "in which countries have the most stray kids fans", "most skz fans", "most stray kids fans"],
+          "responses": ["top five: 1. united states (around 28 million), 2. thailand (around 26.4 million), 3. Indonesia — around 26.3M, 4. Vietnam — around 22M, 5. Brazil — around 14M"]
+      }
+      
+      
+    ]   
+}
